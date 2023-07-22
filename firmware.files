@@ -32,6 +32,10 @@
 ./lib/firmware/qcom/sm8350/porsche/hpnv20.bin
 ./lib/firmware/qcom/sm8350/porsche/hpnv21.bin
 ./lib/firmware/qcom/sm8350/porsche/hpnv21g.bin
+./lib/firmware/qcom/sm8350/porsche/hpbtfw21.tlv
+./lib/firmware/qcom/sm8350/porsche/hpbtfw20.tlv
+./lib/firmware/qcom/sm8350/porsche/hpbtfw21.tlv
+./lib/firmware/qcom/sm8350/porsche/hpnv10.bin
 ./lib/firmware/qcom/sm8350/porsche/ipa_fws.mbn
 ./lib/firmware/qcom/sm8350/porsche/loadalgota64.mbn
 ./lib/firmware/qcom/sm8350/porsche/m3.bin
