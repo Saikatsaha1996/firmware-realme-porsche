@@ -1,0 +1,19 @@
+pkgname=firmware-realme-porsche
+pkgver=1
+pkgrel=0
+_commit=""
+pkgdesc="Firmware files for realme porsche"
+url="https://gitlab.com/Robbbbbb/firmware-oneplus-lemonade"
+arch="aarch64"
+license="proprietary"
+source="$pkgname-$_commit.tar.gz::$url/-/archive/$_commit/firmware-realme-porsche.tar.gz"
+options="!check !strip !archcheck !spdx !tracedeps pmb:cross-native"
+builddir="$srcdir/firmware-realme-porsche-$_commit"
+
+package() {
+	_files="*.mbn *.jsn *.dig *.bin *.fw *.elf *.tlv *.ver *.qdb"
+	for _i in $_files; do
+		install -Dm644 "$_i" "$pkgdir/lib/firmware/postmarketos/$_i"
+	done
+}
+sha512sums=""
