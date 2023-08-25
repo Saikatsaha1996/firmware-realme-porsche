@@ -16,10 +16,6 @@
 ./lib/firmware/postmarketos/hdcp1.mbn
 ./lib/firmware/postmarketos/hdcp2p2.mbn
 ./lib/firmware/postmarketos/hdcpsrm.mbn
-./lib/firmware/qca/porsche/hpnv10.bin
-./lib/firmware/qca/porsche/hpnv20.bin
-./lib/firmware/qca/porsche/hpnv21.bin
-./lib/firmware/qca/porsche/hpnv21g.bin
 ./lib/firmware/postmarketos/qca/hpbtfw10.tlv
 ./lib/firmware/postmarketos/qca/hpbtfw10.ver
 ./lib/firmware/postmarketos/qca/hpbtfw20.tlv
@@ -46,3 +42,7 @@
 ./lib/firmware/postmarketos/voicepri.mbn
 ./lib/firmware/postmarketos/widevine.mbn
 ./lib/firmware/postmarketos/winsecap.mbn
+./lib/firmware/qca/porsche/hpnv10.bin
+./lib/firmware/qca/porsche/hpnv20.bin
+./lib/firmware/qca/porsche/hpnv21.bin
+./lib/firmware/qca/porsche/hpnv21g.bin
