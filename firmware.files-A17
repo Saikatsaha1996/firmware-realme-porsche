@@ -16,5 +16,12 @@
 ./lib/firmware/qcom/sm8350/realme/porsche/slpi.mbn
 ./lib/firmware/qcom/sm8350/realme/porsche/slpir.jsn
 ./lib/firmware/qcom/sm8350/realme/porsche/slpius.jsn
+./lib/firmware/qcom/sm8350/realme/porsche/mldapta.mbn
+./lib/firmware/qcom/sm8350/realme/porsche/mbn_hw.dig
+./lib/firmware/qcom/sm8350/realme/porsche/mbn_sw.dig
+./lib/firmware/qcom/sm8350/realme/porsche/mcfg_hw.mbn
+./lib/firmware/qcom/sm8350/realme/porsche/mcfg_sw.mbn
+./lib/firmware/qcom/sm8350/realme/porsche/mdcompress.mbn
+./lib/firmware/qcom/sm8350/realme/porsche/qdsp6m.qdb
 ./lib/firmware/qca/htbtfw21.tlv
 ./lib/firmware/qca/htnv21.bin
